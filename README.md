@@ -12,9 +12,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
 - [Pytorch 기반 재활용 쓰레기 탐지 Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04)  
 	Detectron2 기반 Baseline을 최대한 추상화하여 팀원들의 다양하고 효율적인 연구에 기여했습니다.  
