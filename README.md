@@ -23,7 +23,7 @@
 	Pytorch 기반 연구 프로세스를 설계하고 EDA부터 모델 실험까지 모든 부분을 시도하였고 여러가지 문제점을 정의하고 해결했습니다. 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/GUI-41CD52?style=flat-square&logo=Qt&logoColor=white"/>  
 
 - [Jetson Nano Board에 얼굴 형태 인식 : Model Serving](https://github.com/ukcastle/frames-client)  
 	한정된 Computing Power를 가진 Jetson Nano 내에 경량화된 모델을 Serving하는 프로젝트로 99% 이상 전담했습니다.    
