@@ -13,11 +13,14 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
-- [Pytorch 기반 재활용 쓰레기 탐지 Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04)  
+- [재활용 쓰레기 탐지 : Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04) (3rd out of 18 teams)   
 	Detectron2 기반 Baseline을 최대한 추상화하여 팀원들의 다양하고 효율적인 연구에 기여했습니다.  
 
-- [Pytorch 기반 재활용 쓰레기 탐지 Semantic Segmentation](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-04)  
+- [재활용 쓰레기 탐지 : Semantic Segmentation](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-04) (3rd out of 18 teams)  
 	Pytorch 기반 연구 프로세스의 A to Z까지 설계하고 라이브러리 내에 없는 인코더를 이식하여 사용하는 등 여러가지 시도를 통한 높은 점수를 성취하는데에 기여했습니다.   
+	
+- [눈바디 프로젝트 : Semantic Segmentation](https://github.com/potato-farm/alchera-ai-challenge) (4th out of 00 teams)  
+	Pytorch 기반 연구 프로세스를 설계하고 EDA부터 모델 실험까지 모든 부분을 시도하였고 여러가지 문제점을 정의하고 해결했습니다. 
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>  
