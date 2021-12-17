@@ -7,6 +7,11 @@
 - 한국산업기술대학교 컴퓨터공학부 컴퓨터공학과 학사과정
 - Naver Connect Boostcamp AI Tech 2nd.
 
+## Working On Now...
+
+- 부스트캠프 내 최종 프로젝트 : 손씻기 교육을 위한 손씻기 6단계 분류 모델
+- 프로젝트에 치여 여태 정리하지 못한 프로젝트들 Readme 수정, 회고 
+
 ## Skills in My Project
 
 <br>
@@ -14,7 +19,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
 - [재활용 쓰레기 탐지 : Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04) (3rd place out of 18 teams)   
-	[Review](https://ukcastle.github.io/ai/bc/2021/12/14/objdet_main/)  
+	- [Review](https://ukcastle.github.io/ai/bc/2021/12/14/objdet_main/)  
+	- Detectron2 프레임워크를 커스터마이징하는 관점에서 많이 접근하였습니다. 
 
 - [재활용 쓰레기 탐지 : Semantic Segmentation](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-04) (3rd place out of 18 teams)  
 	Pytorch 기반 연구 프로세스의 A to Z까지 설계하고 라이브러리 내에 없는 인코더를 이식하여 사용하는 등 여러가지 시도를 통한 높은 점수를 성취하는데에 기여했습니다.   
