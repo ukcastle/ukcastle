@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
 - [Handwash Detection](https://github.com/boostcampaitech2/final-project-level3-cv-04)  
+ 	- 부스트캠프 AI Tech 내에서 진행한 최종 프로젝트이며 기획부터 설계, 구현까지 모두 담당했습니다.   
 	- 손 씻기 6 단계를 탐지하고 이를 서버에 적용하는 프로젝트로 기획과 데이터셋 제작, Image Classification 모델 연구, AWS 를 이용한 검증 서버 생성을 주로 담당했습니다.
 	
 - [Recycling Garbage Detection : Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04) (3rd place out of 18 teams)   
