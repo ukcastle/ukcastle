@@ -45,6 +45,20 @@
 	- 졸업작품으로 진행된 "안면인식 기반 출입 명부 관리 시스템" 중 검증 서버 부분의 프로젝트입니다.  
 	- AWS의 EC2에서 구동하였으며 Flask 프레임워크 위에 모델을 오픈소스 모델을 Serving 했으며 모든 부분을 담당했습니다.  
 
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+
+- [BeakJoonHelper](https://github.com/ukcastle/BaekJoonHelper)  
+	- Baekjoon Online Judge 웹 사이트의 알고리즘 문제를 웹 크롤링을 통해 가져오고 유닛 테스트를 적용한 토이 프로젝트  
+	- 유닛 테스트 부분을 주로 담당
+
+<br>
+
+<img src="https://img.shields.io/badge/C#-#239120?style=flat-square&logo=C Sharp&logoColor=white"/>  
+
+
+
 ## Research Papers
 
 안면 인식 특징점의 가중치 합산 저장 알고리즘 연구
