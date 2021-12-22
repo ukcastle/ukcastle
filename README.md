@@ -20,25 +20,30 @@
 - [Handwash Detection](https://github.com/boostcampaitech2/final-project-level3-cv-04)  
 	- 손 씻기 6 단계를 탐지하고 이를 서버에 적용하는 프로젝트로 기획과 데이터셋 제작, Image Classification 모델 연구, AWS 를 이용한 검증 서버 생성을 주로 담당했습니다.
 	
-- [재활용 쓰레기 탐지 : Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04) (3rd place out of 18 teams)   
-	- [Review](https://ukcastle.github.io/ai/bc/2021/12/14/objdet_main/)  
+- [Recycling Garbage Detection : Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04) (3rd place out of 18 teams)   
+	- 부스트캠프 AI Tech 내에서 진행한 프로젝트이며 실생활 내 생활 쓰레기 중 재활용쓰레기를 탐지하는 프로젝트 입니다. 
 	- Detectron2 프레임워크를 커스터마이징하는 관점에서 많이 접근하였습니다. 
+	- [Review](https://ukcastle.github.io/ai/bc/2021/12/14/objdet_main/) 
 
-- [재활용 쓰레기 탐지 : Semantic Segmentation](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-04) (3rd place out of 18 teams)  
-	- [Review](https://ukcastle.github.io/ai/bc/2021/12/14/semantic_seg_main/)
+- [Recycling Garbage Detection : Semantic Segmentation](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-04) (3rd place out of 18 teams)  
+	- 부스트캠프 AI Tech 내에서 진행한 프로젝트이며 실생활 내 생활 쓰레기 중 재활용쓰레기를 탐지하는 프로젝트 입니다. 
 	- Pytorch 기반 연구 프로세스의 A to Z까지 설계하고 라이브러리 내에 없는 인코더를 이식하여 사용하는 등 여러가지 시도를 통한 높은 점수를 성취하는데에 기여했습니다.   
+	- [Review](https://ukcastle.github.io/ai/bc/2021/12/14/semantic_seg_main/)
 	
-- [눈바디 프로젝트 : Semantic Segmentation](https://github.com/potato-farm/alchera-ai-challenge) (4th place out of 00 teams)  
-	Pytorch 기반 연구 프로세스를 설계하고 EDA부터 모델 실험까지 모든 부분을 시도하였고 여러가지 문제점을 정의하고 해결했습니다.  
+- [Human Body Segmentation](https://github.com/potato-farm/alchera-ai-challenge) (4th place out of 00 teams)  
+	- 사람의 몸을 부위별로 Segmentation 하는 모델을 개발하는 프로젝트입니다.
+	- Pytorch 기반 연구 프로세스를 설계하고 EDA부터 모델 실험까지 모든 부분을 시도하였고 여러가지 문제점을 정의하고 해결했습니다.  
  
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/GUI-41CD52?style=flat-square&logo=Qt&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>    
 
-- [Jetson Nano Board에 얼굴 형태 인식 : Model Serving](https://github.com/ukcastle/frames-client)  
-	한정된 Computing Power를 가진 Jetson Nano 내에 경량화된 모델을 Serving하는 프로젝트로 99% 이상 전담했습니다.  
-- [Flask 기반 얼굴인식 서버 : Model Serving](https://github.com/ukcastle/frames-classification-server)  
-	AWS의 EC2에서 구동하였으며 pyQt와 Flask 프레임워크를 주로 사용했습니다.
+- [Face Detection in Jetson Nano](https://github.com/ukcastle/frames-client)  
+	- 졸업작품으로 진행된 "안면인식 기반 출입 명부 관리 시스템" 중 단말기 부분의 프로젝트입니다.  
+	- 한정된 Computing Power를 가진 Jetson Nano 내에 오픈소스 모델을 Serving하는 프로젝트로 하드웨어와 소프트웨어 설계와 개발 등 모든 부분을 담당했습니다.   
+- [Face Recognition Server based Flask](https://github.com/ukcastle/frames-classification-server)  
+	- 졸업작품으로 진행된 "안면인식 기반 출입 명부 관리 시스템" 중 검증 서버 부분의 프로젝트입니다.  
+	- AWS의 EC2에서 구동하였으며 Flask 프레임워크 위에 모델을 오픈소스 모델을 Serving 했으며 모든 부분을 담당했습니다.  
 
 <br>
 
