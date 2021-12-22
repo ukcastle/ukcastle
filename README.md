@@ -55,9 +55,11 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/C#-#239120?style=flat-square&logo=C Sharp&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C%20sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>  
 
-
+- [Image Processing GUI](https://github.com/DongtanInfluencer/IPTProj)
+	- C#을 이용해 OpenCV의 여러 기능들을 GUI로 사용하는 학부 프로젝트
+	- OpenCV 의 여러 영상처리 기법을 GUI로 표현하는 부분을 담당
 
 ## Research Papers
 
