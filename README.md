@@ -53,12 +53,9 @@
 
 ## Docs
 
-<img src="https://img.shields.io/badge/Refactoring-575757?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/DesignPatterns-575757?style=flat-square&logoColor=white"/>  
-
 - [리팩토링과 패턴](https://ukcastle.github.io/refactoring/2021/04/08/RF-Ch2-3/)  
 	[패턴을 활용한 리팩터링](http://www.yes24.com/Product/Goods/14752528)을 읽고 정리한 내용인데 개발자 인생에 있어서 상당히 많은 도움이 됐습니다.    
   
-<br>
 
 ## Contact Me
 
