@@ -1,8 +1,7 @@
 ## About Me
 
-안녕하세요. ML/DL, Computer Vision을 중점적으로 공부하고 있는 조성욱입니다.  
-딥러닝 모델 연구 완경을 구축, 개선하거나 모델을 실 생활에 적용하는 AI Engineering에 흥미가 있어 공부하고 있습니다.  
-그 중 학부 과정 때 집중적으로 공부한 Backend 지식을 이용하여 MLOps, Model Serving 분야에 매우 관심이 많고 국내외 AI Competitions에 도전하면서 여러 프로젝트를 진행했습니다.
+안녕하세요. AI Engineering에 흥미가 있고 Computer Vision을 중점적으로 공부하고 있는 조성욱입니다.  
+그 중 학부 과정 때 집중적으로 공부한 Backend 지식을 이용하여 모델 연구 환경을 구축, 개선하거나 모델을 실 생활에 적용하는 등 MLOps, Model Serving 분야에 관심이 매우 많습니다.
 
 - 한국산업기술대학교 컴퓨터공학부 컴퓨터공학과 학사과정
 - Naver Connect Boostcamp AI Tech 2nd.
