@@ -9,7 +9,8 @@
 ## Working On Now...
 
 - 프로젝트에 치여 여태 정리하지 못한 프로젝트들 Readme 수정, 회고  
-- 부스트캠프 강의 (AI 기초, Computer Vision 기초) 재수강, 블로그 정리    
+- 부스트캠프 강의 블로그 정리    
+- [Dacon Competition](https://dacon.io/competitions/official/235870/overview/description) 
 
 ## Skills in My Project
 
