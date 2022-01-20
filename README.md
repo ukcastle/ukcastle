@@ -10,7 +10,7 @@
 
 - 프로젝트에 치여 여태 정리하지 못한 프로젝트들 Readme 수정, 회고  
 - 부스트캠프 강의 블로그 정리    
-- [Dacon Competition](https://dacon.io/competitions/official/235870/overview/description) 
+- [Dacon Competition](https://dacon.io/competitions/official/235870/overview/description)  하는중
 
 ## Skills in My Project
 
