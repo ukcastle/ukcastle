@@ -4,7 +4,7 @@ AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱
 
 - 한국공학대학교 컴퓨터공학부 컴퓨터공학과 학사과정
 - Naver Connect Boostcamp AI Tech 2nd.
-- Laon People Inc. AI/DX Department AI/MLOps Engineer
+- Laon People Inc. AI/DX Department AI/MLops Engineer
 
 ## Skills in My Project
 
