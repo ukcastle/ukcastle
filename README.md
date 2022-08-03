@@ -60,13 +60,12 @@ AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱
 
 ## Research Papers
 
-안면 인식 특징점의 가중치 합산 저장 알고리즘 연구 - 2021 KICS 추계종합학술발표회 14E-13 (2 Pages)  
-안면 인식 특징점의 가중치 합산 저장 알고리즘 연구 - 2022 IIBC 2월호 발간 예정  (8 Pages)  
+[안면 인식 특징점의 가중치 합산 저장 알고리즘 연구](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11023001) - 2021 KICS 추계종합학술발표회 14E-13
+[안면 인식 특징점의 가중치 합산 저장 알고리즘 연구](https://www.earticle.net/Article/A408816) - 2022 IIBC 2월호 
 
 ## Docs
 
 - [리팩토링과 패턴](https://ukcastle.github.io/refactoring/2021/04/08/RF-Ch2-3/)  
-	[패턴을 활용한 리팩터링](http://www.yes24.com/Product/Goods/14752528)을 읽고 정리한 내용인데 개발자 인생에 있어서 상당히 많은 도움이 됐습니다.    
   
 
 ## Contact Me
