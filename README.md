@@ -11,12 +11,10 @@ AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱
 ### Laon People Inc.
 
 
-#### 22.02 ~ 22.07
 - AIKEEP(운전자 모니터링 시스템) 내부 알고리즘, 모델 개발 및 개선
 - Eyenix EN675 보드 내 구동 모델 개발   
-
-#### 22.07 ~
-- 개발 진행중
+-  AI 연구 환경 개발 및 개선  
+- 개발 진행중 
 
 ### Side Project
 - Dacon AI competition 진행중
