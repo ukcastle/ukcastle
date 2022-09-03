@@ -21,6 +21,10 @@ AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱
 ### Side Project
 - Dacon AI competition 진행중
 
+### Docs
+- [Hype Python(진행중)](https://amusing-mile-839.notion.site/Hype-Python-063c26d5069143f48321e6c79c079288)  
+
+
 ---  
 
 ### 학부 ~ Naver Boostcamp AI Tech
@@ -59,8 +63,7 @@ AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱
 ## Docs
 
 - [리팩토링과 패턴](https://ukcastle.github.io/refactoring/2021/04/08/RF-Ch2-3/)  
-- [Hype Python(진행중)](https://amusing-mile-839.notion.site/Hype-Python-063c26d5069143f48321e6c79c079288)  
-
+  
 ## Contact Me
 
 - josw631@gmail.com
