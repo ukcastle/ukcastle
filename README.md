@@ -55,8 +55,8 @@ AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱
 
 ## Research Papers
 
-[안면 인식 특징점의 가중치 합산 저장 알고리즘 연구](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11023001) - 2021 KICS 추계종합학술발표회 14E-13, 2p  
-[Study on Weight Summation Storage Algorithm of Facial Recognition Landmark](https://www.earticle.net/Article/A408816) - 2022 IIBC 2월호, 8p
+[안면 인식 특징점의 가중치 합산 저장 알고리즘 연구](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11023001) - 2021 KICS 추계종합학술발표회 14E-13  
+[Study on Weight Summation Storage Algorithm of Facial Recognition Landmark](https://www.earticle.net/Article/A408816) - 2022 IIBC 2월호  
 
 ## Docs
 
