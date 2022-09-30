@@ -1,6 +1,6 @@
 ## About Me
 
-AI Engineering, Computer Vision을 중점적으로 공부하고 있는 조성욱입니다.  
+AI Engineering, MLops, Computer Vision, Python  
 
 - 한국공학대학교 컴퓨터공학부 컴퓨터공학과
 - Naver Connect Boostcamp AI Tech 2nd.
