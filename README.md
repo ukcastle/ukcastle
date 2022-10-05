@@ -9,11 +9,6 @@ AI Engineering, MLops, Computer Vision, Python
 ## Skills in My Project
 
 ### Laon People Inc.
-
-
-- AIKEEP(운전자 모니터링 시스템) 내부 알고리즘, 모델 개발 및 개선
-- Eyenix EN675 보드 내 구동 모델 개발   
--  AI 연구 환경 개발 및 개선  
 - Something...
 
 ### Side Project
