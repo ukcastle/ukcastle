@@ -2,7 +2,7 @@
 
 AI Engineering, MLops, Computer Vision, Python  
 
-- 한국공학대학교 컴퓨터공학부 컴퓨터공학과
+- Tech University of Korea, Department of CSE
 - Naver Connect Boostcamp AI Tech 2nd.
 - Laon People Inc. AI/DX Department AI/MLops Engineer
 - Nota Inc. NetsPresso AI Application Engineer
