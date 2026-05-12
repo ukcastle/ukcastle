@@ -3,7 +3,7 @@
 AI Engineering, MLops, Computer Vision, Python  
 
 - Laon People Inc. AI/DX Department AI/MLops Engineer
-- Nota Inc. NetsPresso AI Application Engineer
+- Nota Inc. NetsPresso AI Research Engineer
 
 ---  
   
