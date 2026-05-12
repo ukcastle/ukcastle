@@ -1,6 +1,6 @@
 ## About Me
 
-AI Engineering, MLops, Computer Vision, Python  
+AI Engineering, Computer Vision, Edge AI
 
 - Laon People Inc. AI/DX Department AI/MLops Engineer
 - Nota Inc. NetsPresso AI Research Engineer
